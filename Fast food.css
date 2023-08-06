@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Courier, monospace';
+    transition: 0.4s ease-in-out;
+    width: 190px;
+    height: 100px;
+    padding: 5px;
+    background: #234b79;
+    border: none;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .4s ease ;}
+h1{
+    text-align: center;
+    background-color: brown;
+}
+.b{
+    text-decoration-line: line-through;
+}
+
+ul{
+    font-size: large;
+}
+
